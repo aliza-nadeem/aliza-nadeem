@@ -1,10 +1,9 @@
-##💫 About Me:
+💫 About Me:
 
 Hi, I'm Aliza <br><br>I'm a Software Engineering undergrad at FAST-NU (Lahore), still early in the journey but genuinely enjoying the process of figuring out how things work under the hood — from database schemas to how a CPU actually executes a register instruction.<br><br>Most of what's in here comes from coursework and team projects, but each one taught me something I didn't expect going in.
 
 <br>
 🚀 What I've Been Building:
-
 <pre>
 🍲 LeftNoCrumbs — Food redistribution platform (React, TypeScript, Spring Boot). Focused on requirements & system design.
 🅿️ Smart Parking System — Database-driven app (Node.js, SQL Server). Designed schema, queries, stored procedures.
@@ -13,8 +12,7 @@ Hi, I'm Aliza <br><br>I'm a Software Engineering undergrad at FAST-NU (Lahore), 
 🐟 Bite the Bait — 2D survival game (C++, SFML). Collision detection, scoring, game states.
 </pre>
 <br>
-#🌱 Currently:
-
+🌱 Currently:
 <pre>
 🔹 Getting more comfortable with data structures & algorithms beyond the classroom
 🔹 Slowly exploring outside my coursework — React/Node projects, and trying to understand where AI/ML
